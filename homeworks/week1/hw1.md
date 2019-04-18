@@ -1,5 +1,6 @@
 ## 交作業流程
 
+
 1. 新開一個 branch，假設叫做 Week_1 `git branch Week_1`
 2. 切到寫作業的 branch `git checkout Week_1`
 3. 開始寫作業，寫完後把結果 push 上 Github，且發 pull request `git push origin Week_1`
